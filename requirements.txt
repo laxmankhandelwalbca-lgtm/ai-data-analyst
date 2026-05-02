@@ -2,4 +2,4 @@ streamlit
 pandas
 plotly
 anthropic
-grog
+groq
